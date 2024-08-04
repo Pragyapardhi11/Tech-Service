@@ -1,13 +1,88 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+* {
+    font-family: "Mulish", sans-serif;
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-optical-sizing: auto;
+    font-weight: auto;
+    font-style: normal; */
+  }
+
+.navbar{
+    background-color: #fff !important;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.navbar-brand{
+    font-size: 1.9rem !important;
+    color: #565387 !important;
+}
+
+.navbar a{
+    text-transform: capitalize;
+    font-size: 1.3rem !important;
+}
+
+.menu_active{
+     font-weight: bold;
+     border-bottom: 2px solid #565387;
+}
+  
+.navbar a:hover{
+    color:#3498bd !important;
+}
+  
+#header{
+    width:100%;
+    height:80vh;
+    margin-top: 40px;
+}
+#header h1{
+    margin: 0 0 10px 0;
+    font-size: 48px;
+    font-weight: 700;
+    color: black;
+
+}
+
+#header .brand-name{
+    color:#3498db;
+}
+#header h2{
+    color:#484848;
+    font-size: 24px;
+}
+
+
+.header-img video {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.btn-get-started {
+    display: inline-block;
+    padding: 10px 30px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    color:#fff;
+    background-color: #3498db;
+    border: 2px solid #3498db;
+    text-decoration: none;
+    border-radius: 50px;
+    transition: 0.5s;
+}
+.btn-get-started:hover {
+    background-color:#fff;
+    color: #3498bd;
+    
+}
+
+.img-size {
+    width: 200px; /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+    object-fit: cover; /* Ensures the image covers the area while maintaining aspect ratio */
 }
