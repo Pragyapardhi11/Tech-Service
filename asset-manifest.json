@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Tech-Service/static/css/main.a6a7c82e.chunk.css",
+    "main.js": "/Tech-Service/static/js/main.8eb316d6.chunk.js",
+    "main.js.map": "/Tech-Service/static/js/main.8eb316d6.chunk.js.map",
+    "runtime~main.js": "/Tech-Service/static/js/runtime~main.bd905549.js",
+    "runtime~main.js.map": "/Tech-Service/static/js/runtime~main.bd905549.js.map",
+    "static/css/2.98036eff.chunk.css": "/Tech-Service/static/css/2.98036eff.chunk.css",
+    "static/js/2.ae1418cb.chunk.js": "/Tech-Service/static/js/2.ae1418cb.chunk.js",
+    "static/js/2.ae1418cb.chunk.js.map": "/Tech-Service/static/js/2.ae1418cb.chunk.js.map",
+    "index.html": "/Tech-Service/index.html",
+    "precache-manifest.0084ed82b18dfce6b83619d28771537a.js": "/Tech-Service/precache-manifest.0084ed82b18dfce6b83619d28771537a.js",
+    "service-worker.js": "/Tech-Service/service-worker.js",
+    "static/css/2.98036eff.chunk.css.map": "/Tech-Service/static/css/2.98036eff.chunk.css.map",
+    "static/css/main.a6a7c82e.chunk.css.map": "/Tech-Service/static/css/main.a6a7c82e.chunk.css.map",
+    "static/media/3539320.jpg": "/Tech-Service/static/media/3539320.4f717333.jpg",
+    "static/media/Girl working on Laptop.mp4": "/Tech-Service/static/media/Girl working on Laptop.40e793e7.mp4",
+    "static/media/Work from home.mp4": "/Tech-Service/static/media/Work from home.8367d287.mp4",
+    "static/media/img33.jpeg": "/Tech-Service/static/media/img33.fd04fec7.jpeg"
+  }
+}
